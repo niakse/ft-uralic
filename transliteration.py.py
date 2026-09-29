@@ -1,12 +1,6 @@
 from argparse import ArgumentParser
 import os
 
-
-
-
-
-FINBERT = "TurkuNLP/bert-base-finnish-cased-v1"
-
 CYRILLIC_LANGUAGES = {"myv"}
 
 CYRILLIC_TO_LATIN = {
